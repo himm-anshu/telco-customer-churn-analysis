@@ -1,5 +1,7 @@
 # Telco Customer Churn Analysis | End-to-End Data Analytics Project
 
+![Dashboard Preview](tableau/Dashboard_preview.png)
+
 ## Project Summary
 
 Designed and executed a complete end-to-end data analytics project to analyze customer churn patterns for a telecom company.
