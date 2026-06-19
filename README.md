@@ -98,6 +98,12 @@ https://public.tableau.com/views/Dashboard_17771682761600/Dashboard1?:language=e
 
 ---
 
+## How to Reproduce
+1. Clone or download this repository
+2. Open `python/churn_cleaning_notebook.ipynb` in Jupyter Notebook or Google Colab to view the data cleaning steps
+3. Import `data/telco_churn_cleaned.csv` into MySQL (or any SQL tool) and run `sql/telco_churn_analysis.sql` to reproduce the validation queries
+4. Open `tableau/telco_churn_dashboard.twbx` in Tableau Desktop, or view the live dashboard using the link above
+
 ## Skills Demonstrated
 
 * Data Cleaning & Validation
