@@ -88,7 +88,6 @@ https://public.tableau.com/views/Dashboard_17771682761600/Dashboard1?:language=e
 
 ## Project Structure
 
-## Project Structure
 - `churn_cleaning_notebook.ipynb` — Python data cleaning & preparation
 - `telco_churn_cleaned.csv` — Cleaned dataset used for SQL analysis
 - `telco_churn_analysis.sql` — SQL validation & analytical queries
