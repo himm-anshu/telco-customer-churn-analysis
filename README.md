@@ -88,20 +88,12 @@ https://public.tableau.com/views/Dashboard_17771682761600/Dashboard1?:language=e
 
 ## Project Structure
 
-```
-📁 data/
-   └── telco_churn_cleaned.csv
-
-📁 python/
-   └── churn_cleaning_notebook.ipynb
-
-📁 sql/
-   └── churn_analysis.sql
-
-📁 tableau/
-   ├── Telco_Churn_Dashboard.twbx
-   └── dashboard_preview.png
-```
+## Project Structure
+- `churn_cleaning_notebook.ipynb` — Python data cleaning & preparation
+- `telco_churn_cleaned.csv` — Cleaned dataset used for SQL analysis
+- `telco_churn_analysis.sql` — SQL validation & analytical queries
+- `telco_churn_dashboard.twbx` — Tableau dashboard file
+- `Dashboard_preview.png` — Dashboard screenshot
 
 ---
 
