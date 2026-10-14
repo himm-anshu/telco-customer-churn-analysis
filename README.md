@@ -65,8 +65,7 @@ Tested whether the patterns seen in the EDA are statistically real rather than c
 * Business-focused layout for executive-level review
 
 🔗 **Live Dashboard:**
-https://public.tableau.com/views/Dashboard_17771682761600/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
+https://public.tableau.com/views/telco_churn_dashboard_17882435873900/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## Key Analytical Insights
